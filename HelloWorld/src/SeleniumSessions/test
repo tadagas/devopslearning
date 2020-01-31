@@ -1,0 +1,15 @@
+	TestNG is testing framework and its a open source.. and free software..
+	TDD- Test driven development  framework..
+	Purpose -design test cases in a systematic way..
+	---JAR FILES:
+	---Java unit testing framework
+	--Html reports
+	--Different annotations
+	--priorities/sequence
+	--Dependency
+	--grouping
+	--Data provider-- I want execute login window test case with different set of data.. more than one occassion. (10)
+	
+	Install testNG in eclipse
+	http://beust.com/eclipse/
+	-- Never write main method on TestNG class and while creating a class do not select main method.
