@@ -15,7 +15,7 @@ public class BrowserLaunch {
 	public static void main(String[] args) throws InterruptedException {
 
 		
-		System.setProperty("webdriver.chrome.driver", "C:/Users/tadagas/Downloads/chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver", "C:/Users/tadagas/Downloads/chromedriver.exe");
 	ChromeDriver driver = new ChromeDriver();
 	driver.manage().window().fullscreen();
 	int str= driver.manage().window().hashCode();
