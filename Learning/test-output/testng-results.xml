@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25723" started-at="2020-02-24T18:11:01 IST" finished-at="2020-02-24T18:11:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25723" started-at="2020-02-24T18:11:01 IST" finished-at="2020-02-24T18:11:26 IST">
+      <class name="com.qa.page.learningcurve.TestPracticeTwo">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="BrowserSetUp" is-config="true" duration-ms="6011" started-at="2020-02-24T18:11:01 IST" finished-at="2020-02-24T18:11:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="BrowserClose" duration-ms="2120" started-at="2020-02-24T18:11:07 IST" finished-at="2020-02-24T18:11:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+        <test-method status="PASS" signature="sucessfullExecution()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="sucessfullExecution" is-config="true" duration-ms="1" started-at="2020-02-24T18:11:09 IST" finished-at="2020-02-24T18:11:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessfullExecution -->
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="BrowserSetUp" is-config="true" duration-ms="6277" started-at="2020-02-24T18:11:09 IST" finished-at="2020-02-24T18:11:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="driverInstanceClose()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="driverInstanceClose" duration-ms="726" started-at="2020-02-24T18:11:15 IST" finished-at="2020-02-24T18:11:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInstanceClose -->
+        <test-method status="PASS" signature="sucessfullExecution()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="sucessfullExecution" is-config="true" duration-ms="1" started-at="2020-02-24T18:11:16 IST" finished-at="2020-02-24T18:11:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessfullExecution -->
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="BrowserSetUp" is-config="true" duration-ms="5254" started-at="2020-02-24T18:11:16 IST" finished-at="2020-02-24T18:11:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="getPageSource()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="getPageSource" duration-ms="142" started-at="2020-02-24T18:11:21 IST" finished-at="2020-02-24T18:11:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageSource -->
+        <test-method status="PASS" signature="sucessfullExecution()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="sucessfullExecution" is-config="true" duration-ms="0" started-at="2020-02-24T18:11:21 IST" finished-at="2020-02-24T18:11:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessfullExecution -->
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="BrowserSetUp" is-config="true" duration-ms="5090" started-at="2020-02-24T18:11:21 IST" finished-at="2020-02-24T18:11:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="getTitle()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="getTitle" duration-ms="14" started-at="2020-02-24T18:11:26 IST" finished-at="2020-02-24T18:11:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="sucessfullExecution()[pri:0, instance:com.qa.page.learningcurve.TestPracticeTwo@3a883ce7]" name="sucessfullExecution" is-config="true" duration-ms="0" started-at="2020-02-24T18:11:26 IST" finished-at="2020-02-24T18:11:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessfullExecution -->
+      </class> <!-- com.qa.page.learningcurve.TestPracticeTwo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
